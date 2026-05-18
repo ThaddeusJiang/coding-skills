@@ -69,8 +69,7 @@
 
 ### `tabular-nums` for Number
 
-![`font-feature-settings: "tnum"`](./assets/2022-09-29-11-58-04.png)
-![tabular-nums](./assets/2022-09-29-14-25-27.png)
+![tabular-nums](../assets/2022-09-29-14-25-27.png)
 
 ### classNames
 
