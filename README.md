@@ -26,6 +26,8 @@ npx skills add ThaddeusJiang/coding-skills --skill changelog
 
 ## Available Skills
 
+- [adr](skills/adr/)
+  - Create and maintain Architecture Decision Records using the MADR minimal template.
 - [changelog](skills/changelog/)
   - Maintain release notes using Keep a Changelog 1.1.0 with SemVer `X.Y.Z` headings (no `v` prefix).
 - [docker-best-practices](skills/docker-best-practices/)
@@ -47,6 +49,7 @@ npx skills add ThaddeusJiang/coding-skills --skill changelog
 
 ```bash
 npx skills add ThaddeusJiang/coding-skills --list
+npx skills add ThaddeusJiang/coding-skills --skill adr
 npx skills add ThaddeusJiang/coding-skills --skill changelog
 npx skills add ThaddeusJiang/coding-skills --skill docker-best-practices
 npx skills add ThaddeusJiang/coding-skills --all
