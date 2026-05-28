@@ -32,8 +32,12 @@ npx skills add ThaddeusJiang/coding-skills --skill changelog
   - Maintain release notes using Keep a Changelog 1.1.0 with SemVer `X.Y.Z` headings (no `v` prefix).
 - [docker-best-practices](skills/docker-best-practices/)
   - Docker and Docker Compose best practices for reliable local/dev deployments and multi-arch image publishing.
+- [elixir-best-practices](skills/elixir-best-practices/)
+  - Elixir and Phoenix best practices for interactive development, debugging, testing, and routine code changes.
 - [frontend-coding-guidelines](skills/frontend-coding-guidelines/)
   - Frontend coding conventions and review checklist for React/TypeScript projects.
+- [github-actions](skills/github-actions/)
+  - Enforce immutable GitHub Actions pinning with full commit SHAs and explicit version comments.
 - [worktree](skills/worktree/)
   - Prepare any git worktree by copying shared files from the main checkout using git common-dir metadata.
 
@@ -52,6 +56,7 @@ npx skills add ThaddeusJiang/coding-skills --list
 npx skills add ThaddeusJiang/coding-skills --skill adr
 npx skills add ThaddeusJiang/coding-skills --skill changelog
 npx skills add ThaddeusJiang/coding-skills --skill docker-best-practices
+npx skills add ThaddeusJiang/coding-skills --skill elixir-best-practices
 npx skills add ThaddeusJiang/coding-skills --all
 ```
 
